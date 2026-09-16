@@ -4,8 +4,8 @@
 
 Este repositorio reúne la metodología, los datos y los documentos de respaldo de una investigación de **Amenaza Roboto** sobre el uso de herramientas de inteligencia artificial generativa por funcionarios de organismos públicos uruguayos y las capacidades institucionales existentes para gobernar ese uso.
 
-🔗 Investigación publicada:  
-https://amenazaroboto.com/estado-uruguayo-funcionarios-datos-ia
+🔗 Investigación publicada:
+<https://amenazaroboto.com/estado-uruguayo-funcionarios-datos-ia>
 
 ## Sobre la investigación
 
@@ -29,7 +29,7 @@ Para comparar las respuestas, Amenaza Roboto construyó un **Índice de Gobernan
 
 Las seis preguntas incluidas en este análisis suman un máximo de **15 puntos por organismo**.
 
-Los porcentajes publicados se calcularon dividiendo los puntos obtenidos por los 19 organismos que brindaron información sustantiva entre el máximo de puntos disponible para esos mismos organismos. Los cinco organismos que quedaron fuera del índice fueron excluidos tanto del numerador como del denominador.
+Los porcentajes publicados se calcularon sobre los **24 organismos consultados**, dividiendo la suma de los puntos obtenidos entre los **360 puntos posibles** (15 por organismo). Los cinco organismos que no aportaron información sustantiva —cuatro que denegaron el acceso invocando excepciones de la Ley N.º 18.381 y uno que no respondió dentro del plazo— se incorporaron al índice con **cero puntos** en los seis componentes, en lugar de quedar excluidos del numerador y el denominador. El cero expresa la falta de información aportada que permita acreditar las prácticas evaluadas; no demuestra que esas prácticas no existan.
 
 Cuando una pregunta requería documentación, el respaldo aportado por el organismo también fue considerado en la puntuación. Una respuesta declarativa sin el documento solicitado podía recibir un puntaje parcial.
 
@@ -67,25 +67,23 @@ Si utilizás estos datos, documentos o metodología en una investigación, publi
 
 **Amenaza Roboto — Gobernanza de la IA generativa en el Estado uruguayo (2026).**
 
-Investigación:  
-https://amenazaroboto.com/estado-uruguayo-funcionarios-datos-ia
+Investigación:
+<https://amenazaroboto.com/estado-uruguayo-funcionarios-datos-ia>
 
 ## Sobre Amenaza Roboto
 
 **Amenaza Roboto** es un medio independiente de periodismo de ciencia y tecnología con sede en Uruguay.
 
-🌐 https://amenazaroboto.com/
+🌐 <https://amenazaroboto.com/>
 
 ---
-
-<a id="english"></a>
 
 # Generative AI Governance in the Uruguayan State
 
 This repository contains the methodology, data and supporting documents for an **Amenaza Roboto** investigation into the use of generative artificial intelligence tools by employees of Uruguayan public institutions and the institutional capacity to govern that use.
 
-🔗 Published investigation:  
-https://amenazaroboto.com/estado-uruguayo-funcionarios-datos-ia
+🔗 Published investigation:
+<https://amenazaroboto.com/estado-uruguayo-funcionarios-datos-ia>
 
 ## About the investigation
 
@@ -109,7 +107,7 @@ To compare the responses, Amenaza Roboto created a **Generative AI Governance In
 
 The six questions included in this analysis add up to a maximum of **15 points per institution**.
 
-Percentages published in the investigation were calculated by dividing the points obtained by the 19 institutions that provided substantive information by the maximum number of points available to those same institutions. The five institutions outside the index were excluded from both the numerator and the denominator.
+Percentages published in the investigation were calculated across all **24 institutions consulted**, dividing the sum of points obtained by the **360 possible points** (15 per institution). The five institutions that did not provide substantive information —four that denied access invoking exceptions under Law No. 18.381, and one that did not respond within the legal deadline— were included in the index with **zero points** across the six components, rather than being excluded from the numerator and denominator. A zero reflects a lack of information sufficient to verify the practices assessed; it does not demonstrate that those practices are absent.
 
 When a question required documentation, the evidence provided by the institution was also considered in the scoring. A declarative response without the requested supporting document could therefore receive only partial credit.
 
@@ -147,12 +145,11 @@ If you use these data, documents or methodology in reporting, academic research 
 
 **Amenaza Roboto — Generative AI Governance in the Uruguayan State (2026).**
 
-Investigation:  
-https://amenazaroboto.com/estado-uruguayo-funcionarios-datos-ia
+Investigation:
+<https://amenazaroboto.com/estado-uruguayo-funcionarios-datos-ia>
 
 ## About Amenaza Roboto
 
 **Amenaza Roboto** is an independent science and technology journalism outlet based in Uruguay.
 
-🌐 https://amenazaroboto.com/
-
+🌐 <https://amenazaroboto.com/>
